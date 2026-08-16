@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 140" role="img" aria-label="Christian Macion">
+  <style>
+    .nm-plate { fill: #1f2328; }
+    .nm-rule  { stroke: #b6b1a6; }
+    .nm-sub   { fill: #57606a; }
+    .nm-mark  { fill: #b5530a; }
+    @media (prefers-color-scheme: dark) {
+      .nm-plate { fill: #e6edf3; }
+      .nm-rule  { stroke: #4b525b; }
+      .nm-sub   { fill: #9098a1; }
+    }
+  </style>
+
+  <line class="nm-rule" x1="0" y1="14" x2="820" y2="14" stroke-width="0.6" />
+  <line class="nm-rule" x1="0" y1="126" x2="820" y2="126" stroke-width="0.6" />
+
+  <text class="nm-plate"
+        x="0" y="74"
+        font-family="Georgia, 'Source Serif 4', 'Times New Roman', serif"
+        font-size="40" font-weight="400" letter-spacing="6">
+    CHRISTIAN MACION
+  </text>
+
+  <text class="nm-sub"
+        x="0" y="104"
+        font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="3">
+    TRADING  SYSTEMS   ·   QUANT  RESEARCH   ·   APPLIED  REGIMENT
+  </text>
+
+  <circle class="nm-mark" cx="804" cy="70" r="3" />
+</svg>
