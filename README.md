@@ -10,8 +10,6 @@
 
 <br />
 
-Manila, Philippines. Senior quant researcher. Trading infrastructure on
-Upcomers CFDs; a small library of doctrine-driven agents. Manual-only on
-live capital.
+Senior quant researcher. AI Engineer.
 
 <sub>I answer writing within 48h on weekdays. DMs never.</sub>
